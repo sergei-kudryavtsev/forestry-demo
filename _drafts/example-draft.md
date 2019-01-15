@@ -3,8 +3,11 @@ title: Example Draft
 layout: post
 date: 2018-01-19 00:00:00 +0000
 sub_heading: ''
-tags: []
+tags:
+- Test1
+- Test2
 related_posts: []
+banner_image: "/uploads/2018/02/17/neurons.jpg"
 
 ---
 ## What are draft posts?
